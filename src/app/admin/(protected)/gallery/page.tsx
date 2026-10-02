@@ -1,3 +1,6 @@
+export const dynamic = 'force-dynamic'
+
+
 import { getCategories, getGalleryImages } from "@/lib/data";
 import GalleryManager from "@/components/admin/GalleryManager";
 
